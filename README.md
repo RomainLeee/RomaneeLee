@@ -18,23 +18,23 @@
 
 <h3 align="center">Past Programming Works</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Entrepreneurship Project</strong>: devote to the <a href="https://github.com/RomaneeLee/RomaneeLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Entrepreneurship Project</strong>: devote to the <a href="https://github.com/RomainLee/RomainLee/commit/f168168c174bb50f181798fb0218b7330d9217de">front-end development of our plan-to-launch software</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Research Project</strong>: contribution includes basic data processing works and <a href="https://github.com/RomaneeLee/RomaneeLee/commit/dc845ba6b545e9fc51490d6ab43a629e98c8da86">pricing kernel finding</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Research Project</strong>: contribution includes basic data processing works and <a href="https://github.com/RomainLee/RomainLee/commit/dc845ba6b545e9fc51490d6ab43a629e98c8da86">pricing kernel finding</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Internship Project</strong>: both linear and non-linear <a href="https://github.com/RomaneeLee/RomaneeLee/commit/49054e3ba97d94fe87811b2bd490381f55087dfd">multi-factor regression analysis</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Internship Project</strong>: both linear and non-linear <a href="https://github.com/RomainLee/RomainLee/commit/49054e3ba97d94fe87811b2bd490381f55087dfd">multi-factor regression analysis</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Coursework Project</strong>: Financial Econometrics <a href="https://github.com/RomaneeLee/RomaneeLee/blob/f79c54f7a38b25d4aaef192b0bf2a07b0c776492/EF4822.pdf">with ARCH and GARCH Models</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>4. Coursework Project</strong>: Financial Econometrics <a href="https://github.com/RomainLee/RomainLee/blob/f79c54f7a38b25d4aaef192b0bf2a07b0c776492/EF4822.pdf">with ARCH and GARCH Models</a>
 
 <br><br>
 
 <h3 align="center">Financial Modeling Works</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Valuation Model</strong>: finalist in NIBC competition with  <a href="https://github.com/RomaneeLee/RomaneeLee/commit/c3efe87ed44dd7aa67f0d20f8341ce6dabced34b#diff-95d1cdbb9fdf73f468ca06ddf7a9abd2240011cd90a23c52b134db91b39fb3d9">DCF, LBO, COMPs and Precedent Transaction</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>1. Valuation Model</strong>: finalist in NIBC competition with  <a href="https://github.com/RomainLee/RomainLee/commit/c3efe87ed44dd7aa67f0d20f8341ce6dabced34b#diff-95d1cdbb9fdf73f468ca06ddf7a9abd2240011cd90a23c52b134db91b39fb3d9">DCF, LBO, COMPs and Precedent Transaction</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Sample Internship Valuation Work</strong>: non-confidential transaction design and DCF valuation <a href="https://github.com/RomaneeLee/RomaneeLee/commit/857632d48d7df431c8478be96b07571acd0abee1">report</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>2. Sample Internship Valuation Work</strong>: non-confidential transaction design and DCF valuation <a href="https://github.com/RomainLee/RomainLee/commit/857632d48d7df431c8478be96b07571acd0abee1">report</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Modeling in Coursework</strong>: transaction designs <a href="https://github.com/RomaneeLee/RomaneeLee/blob/main/EF4312%20Merger%20Report.pdf">with DCF, MBO and Others</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>3. Modeling in Coursework</strong>: transaction designs <a href="https://github.com/RomainLee/RomainLee/blob/main/EF4312%20Merger%20Report.pdf">with DCF, MBO and Others</a>
 
 
 <br><br>
